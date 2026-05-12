@@ -1,0 +1,4 @@
+# usb module         match_flags idVendor idProduct bcdDevice_lo bcdDevice_hi bDeviceClass bDeviceSubClass bDeviceProtocol bInterfaceClass bInterfaceSubClass bInterfaceProtocol driver_info
+rmnet_usb            0x0403      0x05c6   0x9034    0x0000       0x0000       0x00         0x00            0x00            0x00            0x00               0x00               0x0
+csvt                 0x0403      0x05c6   0x904c    0x0000       0x0000       0x00         0x00            0x00            0x00            0x00               0x00               0x0
+option               0x0003      0x0af0   0x5000    0x0000       0x0000       0x00         0x00            0x00            0x00            0x00               0x00               0x0

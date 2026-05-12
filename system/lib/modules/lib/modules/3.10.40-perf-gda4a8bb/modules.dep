@@ -1,0 +1,15 @@
+kernel/arch/arm/mach-msm/dma_test.ko:
+kernel/arch/arm/mach-msm/msm-buspm-dev.ko:
+kernel/crypto/ansi_cprng.ko:
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko:
+kernel/drivers/net/ethernet/atheros/atl1c/atl1c.ko:
+kernel/drivers/net/ethernet/micrel/ks8851.ko: kernel/drivers/misc/eeprom/eeprom_93cx6.ko
+kernel/drivers/net/wan/bwan.ko:
+kernel/drivers/net/usb/rmnet_usb.ko:
+kernel/drivers/usb/serial/usbserial.ko:
+kernel/drivers/usb/serial/csvt.ko: kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/serial/option.ko: kernel/drivers/usb/serial/usb_wwan.ko kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/serial/usb_wwan.ko: kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/input/evbug.ko:
+kernel/drivers/media/usb/gspca/gspca_main.ko:
+kernel/drivers/mmc/card/mmc_test.ko:

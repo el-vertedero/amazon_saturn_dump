@@ -1,0 +1,981 @@
+{
+    "masterVersion": "2016-07-27T11:16:00Z",
+    "supportPacks": [
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Geraint",
+            "name": "geraint",
+            "language": "cy-GB",
+            "source_url": "ivona/710/arm/b3fe7831342427c2a915e950e301367e/ivona_cym.gbr.geraint.jar",
+            "install_location": "tts/ivona/cym.gbr.geraint/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "166757449"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Gwyneth",
+            "name": "gwyneth",
+            "language": "cy-GB",
+            "source_url": "ivona/710/arm/c0856e51348771145c5718a193c9695d/ivona_cym.gbr.gwyneth.jar",
+            "install_location": "tts/ivona/cym.gbr.gwyneth/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "180158517"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Mads",
+            "name": "mads",
+            "language": "da-DK",
+            "source_url": "ivona/710/arm/6ff94a01e757c135034f9678dbfbdd47/ivona_dan.dnk.mads.jar",
+            "install_location": "tts/ivona/dan.dnk.mads/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "222950635"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Naja",
+            "name": "naja",
+            "language": "da-DK",
+            "source_url": "ivona/710/arm/76e30d5dae0a5e0b30d227820acd36d2/ivona_dan.dnk.naja.jar",
+            "install_location": "tts/ivona/dan.dnk.naja/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "200099810"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Hans",
+            "name": "hans",
+            "language": "de-DE",
+            "source_url": "ivona/710/arm/d3d12a6c4eca277393629c995d49cbc3/ivona_deu.deu.hans.jar",
+            "install_location": "tts/ivona/deu.deu.hans/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "126926301"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Marlene",
+            "name": "marlene",
+            "language": "de-DE",
+            "source_url": "ivona/727/arm/d4dabbb39b02de4c03bf6e0134a59a79/ivona_deu.deu.marlene.jar",
+            "install_location": "tts/ivona/deu.deu.marlene/",
+            "installed_version": "",
+            "current_version": "2016-04-07T19:24:20Z",
+            "type": "TTS_VOICE",
+            "size": "135568289"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Nicole",
+            "name": "nicole",
+            "language": "en-AU",
+            "source_url": "ivona/710/arm/05a3483d8daca00427d0df91c2d262f8/ivona_eng.aus.nicole.jar",
+            "install_location": "tts/ivona/eng.aus.nicole/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "136724500"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Russell",
+            "name": "russell",
+            "language": "en-AU",
+            "source_url": "ivona/710/arm/f2475319e19ef0cc175d57957178a552/ivona_eng.aus.russell.jar",
+            "install_location": "tts/ivona/eng.aus.russell/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "129609488"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Amy",
+            "name": "amy",
+            "language": "en-GB",
+            "source_url": "ivona/727/arm/d7012ae69fa5ab53b3ccad57ea2561df/ivona_eng.gbr.amy.jar",
+            "install_location": "tts/ivona/eng.gbr.amy/",
+            "installed_version": "",
+            "current_version": "2016-04-07T19:24:20Z",
+            "type": "TTS_VOICE",
+            "size": "138906319"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Brian",
+            "name": "brian",
+            "language": "en-GB",
+            "source_url": "ivona/710/arm/bf5ddbc5ab3d31088d52fea93eb52775/ivona_eng.gbr.brian.jar",
+            "install_location": "tts/ivona/eng.gbr.brian/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "146493375"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Raveena",
+            "name": "raveena",
+            "language": "en-IN",
+            "source_url": "ivona/710/arm/32ae27bca7add660596fb351c1eb50f6/ivona_eng.ind.raveena.jar",
+            "install_location": "tts/ivona/eng.ind.raveena/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "142806173"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Joey",
+            "name": "joey",
+            "language": "en-US",
+            "source_url": "ivona/710/arm/ac693959c76ee2ee2e2a6aee8f59235b/ivona_eng.usa.joey.jar",
+            "install_location": "tts/ivona/eng.usa.joey/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "142670851"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Salli",
+            "name": "salli",
+            "language": "en-US",
+            "source_url": "ivona/737/arm/6254661817910e215874cbbf1671f8a8/ivona_eng.usa.salli.jar",
+            "install_location": "tts/ivona/eng.usa.salli/",
+            "installed_version": "",
+            "current_version": "2016-04-27T12:18:41Z",
+            "type": "TTS_VOICE",
+            "size": "142009705"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Chantal",
+            "name": "chantal",
+            "language": "fr-CA",
+            "source_url": "ivona/710/arm/b624f913f00c77be34f82105260d5a92/ivona_fra.can.chantal.jar",
+            "install_location": "tts/ivona/fra.can.chantal/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "127806543"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Céline",
+            "name": "celine",
+            "language": "fr-FR",
+            "source_url": "ivona/710/arm/3edf28b6a90e9c0661f2bc53e021e209/ivona_fra.fra.celine.jar",
+            "install_location": "tts/ivona/fra.fra.celine/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "122267330"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Mathieu",
+            "name": "mathieu",
+            "language": "fr-FR",
+            "source_url": "ivona/710/arm/ea8dc4397bd82d9d7f6fc025076ba621/ivona_fra.fra.mathieu.jar",
+            "install_location": "tts/ivona/fra.fra.mathieu/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "131560835"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Dóra",
+            "name": "dora",
+            "language": "is-IS",
+            "source_url": "ivona/710/arm/6f7c1c876b8b8c7f5873d0ce9d867ee2/ivona_isl.isl.dora.jar",
+            "install_location": "tts/ivona/isl.isl.dora/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "170756868"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Karl",
+            "name": "karl",
+            "language": "is-IS",
+            "source_url": "ivona/710/arm/581ada8a2e07418771b1dbf84f8eb137/ivona_isl.isl.karl.jar",
+            "install_location": "tts/ivona/isl.isl.karl/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "232732189"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Carla",
+            "name": "carla",
+            "language": "it-IT",
+            "source_url": "ivona/710/arm/19a4aeaf1d3923c5bdf3aee095de5f56/ivona_ita.ita.carla.jar",
+            "install_location": "tts/ivona/ita.ita.carla/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "138886784"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Giorgio",
+            "name": "giorgio",
+            "language": "it-IT",
+            "source_url": "ivona/710/arm/47fa3bd1b53779bca27b3fa0eb669cfc/ivona_ita.ita.giorgio.jar",
+            "install_location": "tts/ivona/ita.ita.giorgio/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "127387984"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Lotte",
+            "name": "lotte",
+            "language": "nl-NL",
+            "source_url": "ivona/710/arm/78ac49b974418e2dcc31c6ce780f23dd/ivona_nld.nld.lotte.jar",
+            "install_location": "tts/ivona/nld.nld.lotte/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "155833068"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Ruben",
+            "name": "ruben",
+            "language": "nl-NL",
+            "source_url": "ivona/710/arm/756a473569a08db2632fa69afddd187e/ivona_nld.nld.ruben.jar",
+            "install_location": "tts/ivona/nld.nld.ruben/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "131829257"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Liv",
+            "name": "liv",
+            "language": "nb-NO",
+            "source_url": "ivona/710/arm/464cab7163418db2c1b6230430a75974/ivona_nob.nor.liv.jar",
+            "install_location": "tts/ivona/nob.nor.liv/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "186116414"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Agnieszka",
+            "name": "agnieszka",
+            "language": "pl-PL",
+            "source_url": "ivona/710/arm/5b96e741bc63c869e0670d929e5f33a2/ivona_pol.pol.agnieszka.jar",
+            "install_location": "tts/ivona/pol.pol.agnieszka/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "150236511"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Ewa",
+            "name": "ewa",
+            "language": "pl-PL",
+            "source_url": "ivona/710/arm/cb4de78539f69a633871832406c84d20/ivona_pol.pol.ewa.jar",
+            "install_location": "tts/ivona/pol.pol.ewa/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "49413577"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Jacek",
+            "name": "jacek",
+            "language": "pl-PL",
+            "source_url": "ivona/710/arm/5ac49b3b3eb32cb7f26cd338f68f65c2/ivona_pol.pol.jacek.jar",
+            "install_location": "tts/ivona/pol.pol.jacek/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "29205986"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Jan",
+            "name": "jan",
+            "language": "pl-PL",
+            "source_url": "ivona/710/arm/c657b272ab9af7feb7e9db7e1fbd773f/ivona_pol.pol.jan.jar",
+            "install_location": "tts/ivona/pol.pol.jan/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "29728235"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Maja",
+            "name": "maja",
+            "language": "pl-PL",
+            "source_url": "ivona/710/arm/7bdcf60640628913607f9c01befe19e1/ivona_pol.pol.maja.jar",
+            "install_location": "tts/ivona/pol.pol.maja/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "49628920"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Ricardo",
+            "name": "ricardo",
+            "language": "pt-BR",
+            "source_url": "ivona/710/arm/9e29b2bbac7cdc8eb4e4d80407234841/ivona_por.bra.ricardo.jar",
+            "install_location": "tts/ivona/por.bra.ricardo/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "128551991"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Vitória",
+            "name": "vitoria",
+            "language": "pt-BR",
+            "source_url": "ivona/710/arm/d2c0d020ca411c1f78362fd8c83798b2/ivona_por.bra.vitoria.jar",
+            "install_location": "tts/ivona/por.bra.vitoria/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "138936513"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Cristiano",
+            "name": "cristiano",
+            "language": "pt-PT",
+            "source_url": "ivona/710/arm/e0ab2838572fc5a6a2389e89ce033d76/ivona_por.prt.cristiano.jar",
+            "install_location": "tts/ivona/por.prt.cristiano/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "156603187"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Inês",
+            "name": "ines",
+            "language": "pt-PT",
+            "source_url": "ivona/710/arm/42b5b32dec729b8461d372c9e8a3ee6e/ivona_por.prt.ines.jar",
+            "install_location": "tts/ivona/por.prt.ines/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "135859063"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Carmen",
+            "name": "carmen",
+            "language": "ro-RO",
+            "source_url": "ivona/710/arm/639153c5cf2618adefb118f4f30bb2d9/ivona_ron.rou.carmen.jar",
+            "install_location": "tts/ivona/ron.rou.carmen/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "29283750"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Maxim",
+            "name": "maxim",
+            "language": "ru-RU",
+            "source_url": "ivona/710/arm/96b65488b81f554050fdc4ec2626b9ca/ivona_rus.rus.maxim.jar",
+            "install_location": "tts/ivona/rus.rus.maxim/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "185862241"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Tatyana",
+            "name": "tatyana",
+            "language": "ru-RU",
+            "source_url": "ivona/710/arm/9ee9b9f355fca92cc0b1067b21a0ba97/ivona_rus.rus.tatyana.jar",
+            "install_location": "tts/ivona/rus.rus.tatyana/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "164971759"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Conchita",
+            "name": "conchita",
+            "language": "es-ES",
+            "source_url": "ivona/710/arm/5a05191c874fdf43c92a7e77989920aa/ivona_spa.esp.conchita.jar",
+            "install_location": "tts/ivona/spa.esp.conchita/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "115221541"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Enrique",
+            "name": "enrique",
+            "language": "es-ES",
+            "source_url": "ivona/710/arm/384cc87c7b012899390a88ee2f299f07/ivona_spa.esp.enrique.jar",
+            "install_location": "tts/ivona/spa.esp.enrique/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "96133318"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Miguel",
+            "name": "miguel",
+            "language": "es-US",
+            "source_url": "ivona/710/arm/9bff3d74038acfaaf94a4e7adb9962b6/ivona_spa.usa.miguel.jar",
+            "install_location": "tts/ivona/spa.usa.miguel/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "104240690"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Penélope",
+            "name": "penelope",
+            "language": "es-US",
+            "source_url": "ivona/710/arm/b1b5786741276a4cbc3306797776048b/ivona_spa.usa.penelope.jar",
+            "install_location": "tts/ivona/spa.usa.penelope/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "108834708"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Astrid",
+            "name": "astrid",
+            "language": "sv-SE",
+            "source_url": "ivona/710/arm/1f2ac05fc0983a41ec4feaeb0c4304bc/ivona_swe.swe.astrid.jar",
+            "install_location": "tts/ivona/swe.swe.astrid/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "191718232"
+        },
+        {
+            "status": "NOT_YET_REQUESTED",
+            "display_name": "Filiz",
+            "name": "filiz",
+            "language": "tr-TR",
+            "source_url": "ivona/710/arm/b81fa0c9bc00d35c32d156fde1dd9fd7/ivona_tur.tur.filiz.jar",
+            "install_location": "tts/ivona/tur.tur.filiz/",
+            "installed_version": "",
+            "current_version": "2016-02-09T14:07:11Z",
+            "type": "TTS_VOICE",
+            "size": "165188746"
+        },
+        {
+            "name" : "readingfonts",
+            "type" : "FONT_PACK",
+            "languages" : ["en", "de", "DE", "es", "fr", "it", "pt", "en-AU", "en-CA", "en-GB", "en-IT", "en-uk", "en-us"],
+            "source_url": "eink/a09968d362d7acc24ec98b28879f5070/signed_readingfonts.jar",
+            "version" : "2015-08-28T15:30:00Z",
+            "size" : "1272536",
+            "bundles" : [
+                {
+                    "path" : "/fonts/",
+                    "files" : ["Caecilia.ttf", "Caecilia-Italic.ttf", "Caecilia-Bold.ttf", "Caecilia-BoldItalic.ttf" ],
+                    "properties" : [
+                                    {
+                                        "name" : "Caecilia.ttf-displayname",
+                                        "value" : "Caecilia",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia.ttf-family",
+                                        "value" : "Caecilia Regular",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Italic.ttf-displayname",
+                                        "value" : "Caecilia",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Italic.ttf-family",
+                                        "value" : "Caecilia Regular",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Italic.ttf-style",
+                                        "value" : "Italic",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Bold.ttf-displayname",
+                                        "value" : "Caecilia",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Bold.ttf-family",
+                                        "value" : "Caecilia Regular",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-Bold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-BoldItalic.ttf-displayname",
+                                        "value" : "Caecilia",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-BoldItalic.ttf-family",
+                                        "value" : "Caecilia Regular",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Caecilia-BoldItalic.ttf-style",
+                                        "value" : "Bold Italic",
+                                        "type" : "string"
+                                    }
+                                ]
+                },
+                {
+                    "path" : "/fonts/",
+                    "files" : ["Baskerville.ttf", "Baskerville-Italic.ttf", "Baskerville-Bold.ttf", "Baskerville-BoldItalic.ttf" ],
+                    "properties" : [
+                                    {
+                                        "name" : "Baskerville.ttf-displayname", 
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Baskerville.ttf-family",
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-Italic.ttf-displayname", 
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Baskerville-Italic.ttf-family",
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-Italic.ttf-style",
+                                        "value" : "Italic",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-Bold.ttf-displayname", 
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Baskerville-Bold.ttf-family",
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-Bold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-BoldItalic.ttf-displayname", 
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Baskerville-BoldItalic.ttf-family",
+                                        "value" : "Baskerville",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Baskerville-BoldItalic.ttf-style",
+                                        "value" : "Bold Italic",
+                                        "type" : "string"
+                                    }
+                                ]
+                },
+                {
+                    "path" : "/fonts/",
+                    "files" : ["Palatino.ttf", "Palatino-Italic.ttf", "Palatino-Bold.ttf", "Palatino-BoldItalic.ttf" ],
+                    "properties" : [
+                                    {
+                                        "name" : "Palatino.ttf-displayname", 
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Palatino.ttf-family",
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-Italic.ttf-displayname", 
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Palatino-Italic.ttf-family",
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-Italic.ttf-style",
+                                        "value" : "Italic",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-Bold.ttf-displayname", 
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Palatino-Bold.ttf-family",
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-Bold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-BoldItalic.ttf-displayname", 
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    }, 
+                                    {
+                                        "name" : "Palatino-BoldItalic.ttf-family",
+                                        "value" : "Palatino",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "Palatino-BoldItalic.ttf-style",
+                                        "value" : "Bold Italic",
+                                        "type" : "string"
+                                    }
+                                ]
+                }
+            ]
+        },
+        {
+            "name" : "jp-readingfonts",
+            "type" : "FONT_PACK",
+            "languages" : ["ja", "jp-JP", "jp-Jpan"],
+            "source_url": "eink/845c816570811137a50b52577069bb3a/signed_jp-readingfonts.jar",
+            "version" : "2015-08-28T16:30:00Z",
+            "size" : "19231488",
+            "bundles" : [
+                {
+                    "path" : "/fonts/",
+                    "files" : ["TBGothicMed_213.ttf", "TBGothicBold_213.ttf" ],
+                    "properties" : [
+                                    {
+                                        "name" : "TBGothicMed_213.ttf-displayname",
+                                        "value" : "������������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBGothicMed_213.ttf-family",
+                                        "value" : "TBGothic",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBGothicMed_213.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBGothicBold_213.ttf-displayname",
+                                        "value" : "������������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBGothicBold_213.ttf-family",
+                                        "value" : "TBGothic",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBGothicBold_213.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    }
+                                ]
+                },
+                {
+                    "path" : "/fonts/",
+                    "files" : ["TBMinchoMedium_213.ttf", "TBMinchoBold_213.ttf" ],
+                    "properties" : [
+                                    {
+                                        "name" : "TBMinchoMedium_213.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBMinchoMedium_213.ttf-family",
+                                        "value" : "TBMincho",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBMinchoMedium_213.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBMinchoBold_213.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBMinchoBold_213.ttf-family",
+                                        "value" : "TBMincho",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name" : "TBMinchoBold_213.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    }
+                                ]
+                }
+            ]
+        },
+        {
+            "name": "cn-readingfonts",
+            "type": "FONT_PACK",
+            "languages": ["zh", "zh-cn", "zh-Hans", "zh-HANS", "zh-CN"],
+            "source_url": "eink/1abcc06fadc1705aea6fbe88378a01d9/signed_cn-readingfonts.jar",
+            "version": "2015-08-28T17:30:00Z",
+            "size": "89516444",
+            "bundles": [
+                {
+                    "path":"/fonts/",
+                    "files": ["STKaiTi.ttf", "STKaiBold.ttf" ],
+                    "properties": [
+                                    {
+                                        "name": "STKaiTi.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STKaiTi.ttf-family",
+                                        "value" : "STKaiti",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STKaiTi.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STKaiBold.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STKaiBold.ttf-family",
+                                        "value" : "STKaiti",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STKaiBold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    }
+                                ]
+                },
+                {
+                    "path":"/fonts/",
+                    "files": ["STHeitiMedium.ttf", "STHeitiBold.ttf" ],
+                    "properties": [
+                                    {
+                                        "name": "STHeitiMedium.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STHeitiMedium.ttf-family",
+                                        "value" : "STHeiti",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STHeitiMedium.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STHeitiBold.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STHeitiBold.ttf-family",
+                                        "value" : "STHeiti",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STHeitiBold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    }
+                                ]
+                },
+                {
+                    "path":"/fonts/",
+                    "files": ["STYuanMedium.ttf", "STYuanBold.ttf" ],
+                    "properties": [
+                                    {
+                                        "name": "STYuanMedium.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STYuanMedium.ttf-family",
+                                        "value" : "STZhongyuan",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STYuanMedium.ttf-style",
+                                        "value" : "Medium",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STYuanBold.ttf-displayname",
+                                        "value" : "������",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STYuanBold.ttf-family",
+                                        "value" : "STZhongyuan",
+                                        "type" : "string"
+                                    },
+                                    {
+                                        "name": "STYuanBold.ttf-style",
+                                        "value" : "Bold",
+                                        "type" : "string"
+                                    }
+                                ]
+                }
+            ]
+        },
+        {
+            "name" : "specialfonts",
+            "type" : "FONT_PACK",
+            "languages" : ["en", "de", "DE", "es", "fr", "it", "pt", "en-AU", "en-CA", "en-GB", "en-IT", "en-uk", "en-us"],
+            "source_url": "eink/4a12719e371b84f1f3e79bde32d9bb51/signed_specialfonts.jar",
+            "version" : "2015-12-23T15:30:00Z",
+            "size" : "233000",
+            "bundles" : [
+                {
+                    "path" : "/fonts/",
+                    "files" : ["OpenDyslexic-Regular.otf", "OpenDyslexic-Italic.otf", "OpenDyslexic-Bold.otf", "OpenDyslexic-BoldItalic.otf" ],
+                    "properties" : [
+                        {
+                            "name" : "OpenDyslexic-Regular.otf-displayname",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Regular.otf-family",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Regular.otf-style",
+                            "value" : "Regular",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Italic.otf-displayname",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Italic.otf-family",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Italic.otf-style",
+                            "value" : "Italic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Bold.otf-displayname",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Bold.otf-family",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-Bold.otf-style",
+                            "value" : "Bold",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-BoldItalic.otf-displayname",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-BoldItalic.otf-family",
+                            "value" : "OpenDyslexic",
+                            "type" : "string"
+                        },
+                        {
+                            "name" : "OpenDyslexic-BoldItalic.otf-style",
+                            "value" : "Bold Italic",
+                            "type" : "string"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
