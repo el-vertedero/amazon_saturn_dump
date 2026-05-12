@@ -1,0 +1,14 @@
+# saturn-user 5.1.1 LVY48F 22.5.5.4_user_554207020 release-keys
+- manufacturer: amazon
+- platform: apq8084
+- codename: saturn
+- flavor: saturn-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 22.5.5.4_user_554207020
+- tags: release-keys
+- fingerprint: Amazon/saturn/saturn:5.1.1/LVY48F/22.5.5.4_user_554207020:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: saturn-user-5.1.1-LVY48F-22.5.5.4_user_554207020-release-keys
+- repo: amazon_saturn_dump
